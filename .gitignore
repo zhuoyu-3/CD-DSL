@@ -1,0 +1,7 @@
+.codex
+.venv/
+__pycache__/
+*.pyc
+data/
+runs/
+checkpoints/
